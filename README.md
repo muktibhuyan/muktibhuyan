@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @muktibhuyan
 - 👀 I’m interested in problem solving,learning new things,meeting new people.
-- 🌱 I’m currently learning data analysis.
-- 💞️ I’m looking to collaborate on data analysis projects to enhance and get more expereiced on it.
+- 🌱 Certified Data analyst from Hero Vired.
+- 💞️ I’m looking to collaborate on data analysis projects to enhance and get more experienced on it.
 - 📫 How to reach me on email: mukti.bhuyan@gmail.com
 - 😄 Pronouns: Ms.
 - ⚡ Fun fact: ...
